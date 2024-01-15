@@ -1,0 +1,5 @@
+#pragma once
+
+// Variable expansion omitted
+constexpr int VersionMajor{0};
+
